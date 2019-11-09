@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package cakeproject;
-//Student Name: Gerald Mouton
-//LSU ID: 894569516
-//Lab Section: Lab 1
-//Assignment: Lab 3
-//Submission Time: 5:10
 /**
  *
  * @author gmouto6
